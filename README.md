@@ -1,15 +1,15 @@
-# pdi-teradata-tpt-plugin #
+# tdi-teradata-tpt-plugin #
 
 How to build
 --------------
 
-pdi-teradata-tpt-plugin uses the maven framework. 
+tdi-teradata-tpt-plugin uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
 * Maven, version 3+
 * Java JDK 11
-* This [settings.xml](https://raw.githubusercontent.com/pentaho/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
+* This [settings.xml](https://raw.githubusercontent.com/tahopen/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
 
 #### Building it
 
